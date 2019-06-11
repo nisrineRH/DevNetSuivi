@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "DevNetSuivi",
+    "packageName": "io.github.jhipster.netsuivi",
+    "packageFolder": "io/github/jhipster/netsuivi",
+    "serverPort": 8300,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.0.1",
+    "jwtSecretKey": "NzYwZDBiN2VjZjFhMzczNzUwNzc5MWYzNWRkMWRjYzM3ZWFmY2RmN2MzYWU1NDYwYjZhNTY2Y2JjNTQyYWEwYWViYmE2ZmI0M2NhODEyMjgyYWNjZWFjYTY4YWI5MTFkZmIyYmM2NWQwOTI0ZDQ5NjlhZGYyNTY5NDYwNjVjYWQ=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "nisrineRH",
+  "repository-name": "DevNetSuivi"
+}
